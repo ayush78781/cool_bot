@@ -22,3 +22,4 @@ You can check the project on repl.it with the above label.
 
 ## Video Demo 
 https://drive.google.com/file/d/1Q0gYqHJbl-iSE-7IfzAHNVME6HuQkW7D/view?usp=sharing
+If you ant to check in these commands hop into my server[(https://discord.gg/NF8G3XJe)](https://discord.gg/NF8G3XJe)to test them that these commands are actually working.
